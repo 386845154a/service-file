@@ -1,0 +1,3 @@
+2019-05-07 14:40:42 [http-nio-8001-exec-2] INFO  c.h.f.service.impl.FileServiceImpl - 文件上传成功--->上传时间：0 ms
+2019-05-07 14:40:42 [http-nio-8001-exec-2] INFO  c.h.f.aop.LogServiceAspect - Service日志打印 ===== com.htb2y.filemanagement.service.impl.FileServiceImpl.upload() end =====,响应时间:47毫秒,响应内容:1
+2019-05-07 14:40:42 [http-nio-8001-exec-2] INFO  c.h.f.aop.LogControllerAspect - Controller日志打印 ===== com.htb2y.filemanagement.controller.FileController.upload() end =====,响应时间:8045毫秒,响应内容:{"code":"0","data":"","massage":"成功"}
